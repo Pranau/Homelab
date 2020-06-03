@@ -1,3 +1,3 @@
 # Homelab
 
-This is my Test Lab Repository for *Workshop*
+This is my Test Lab Repository for *Workshop
